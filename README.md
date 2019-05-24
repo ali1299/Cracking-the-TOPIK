@@ -1,5 +1,4 @@
 # Cracking-the-TOPIK
-Website for preparation for (TOPIK) Test of Proficiency in Korean 
 
 
 This website was developed for the korean language learing and preparation for the TOPIK (Test of Preficiency in Korean) purposes.
